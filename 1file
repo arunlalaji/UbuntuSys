@@ -1,1 +1,13 @@
 file1 shows nothing
+I have done editing successsfully this is the way we should copy the files to git 
+1. create a new directory
+2. initaite git repo by git init
+3. add files to the directory
+4. add those files to staging area git add -A # to add all files
+5. by confirming commit i.e git commit -m "mesaage" we confirms changes to git repository
+6. now add remote to git repository such as git remote add origin remote url
+7. verify the above remote repo by git remote -v
+8. now push the changes to git git push origin master
+9. It means things will successfully added to the git repo
+10. Thank you
+
